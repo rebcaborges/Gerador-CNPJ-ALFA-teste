@@ -1,4 +1,5 @@
 --Gerador de CNPJ Alfanumerico
+
 Este projeto tem como objetivo gerar CNPJs em formato alfanumérico com dígitos verificadores válidos, seguindo uma adaptação da estrutura tradicional do CNPJ da Receita Federal.
 Com o crescimento contínuo de empresas e o iminente esgotamento da numeração atual, o CNPJ Alfanumérico surge como uma solução futura para ampliar a capacidade de identificação empresarial no Brasil.
 
